@@ -1,4 +1,4 @@
-<!-- # 🍲 Food Recipe Sorter
+# 🍲 Food Recipe Sorter
 
 A simple and elegant recipe sorter web app that lets users explore food dishes categorized by meal times—**Breakfast**, **Evening**, **Lunch**, and **Dinner**.
 
@@ -97,4 +97,4 @@ food-recipe-sorter/
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. You’re free to use, modify, and distribute it as needed. -->
+This project is licensed under the **MIT License**. You’re free to use, modify, and distribute it as needed.
